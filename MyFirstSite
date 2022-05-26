@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            
+        </head>
+        <div  id="exercise1" >
+            <h1>Jelani</h1>
+                <body>
+                    <p>Jelani, New Orleans native, recent graduate of Georgia State University, spent his undergraduate years studying Psychology along with Film & Media Studies. He is passionate about technology, education, and traveling. When he's not working, Jelani enjoys going to the park, rollerskating, photography, and riding his motorcycle.</p>
+                </body>
+            </div>
+        <div id="exercise2">
+            <ul>
+                <li>
+                    <a herf="https://www.linkedin.com/in/jelani-washington-jr-94745b1ab">LinkedIn</a>
+                </li>
+                <li>
+                    <a herf="https://truecoders.io/">TrueCoders</a>
+                </li>
+                <li>
+                    <a herf="https://www.google.com/">Google</a>
+                </li>
+            </ul>
+        </div>
+                </html>
